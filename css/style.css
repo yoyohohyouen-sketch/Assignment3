@@ -1,0 +1,69 @@
+#fontstyle{
+    font-family: "Playwrite NZ Basic", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;     
+}
+#headerword{
+    font-size: 200%;
+    color:blueviolet;
+}
+
+#headerchoose{
+    color: #B197FC;
+}
+
+#headerchoose:hover{
+    color: blueviolet;    
+}
+
+#btncolor{
+    background-color: #B197FC;
+    color: white;
+}
+
+#btncolor:hover{
+    background-color: blueviolet;
+}
+
+#titlefont{
+    font-family: "Playwrite NZ Basic", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;     
+}
+
+#albumbtn{
+    border-color: #B197FC;
+    color: #B197FC;
+}
+
+#albumbtn:hover{
+    background-color: #B197FC;
+    color: white;
+}
+
+#albumbody{
+    background-color: rgba(177, 151, 252, 0.25); 
+}
+
+#faqh2{
+    padding-bottom: 2%;
+    color: blueviolet;    
+}
+
+#faqfont{
+    padding-bottom: 2%;
+    font-family: "Playwrite NZ Basic", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;  
+}
+
+#faqh3{
+    color:  rgba(177, 151, 252, 0.75);
+}
+
+#faqp{
+    text-align: justify;
+}
