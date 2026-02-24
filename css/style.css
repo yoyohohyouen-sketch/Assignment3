@@ -69,7 +69,7 @@
 }
 
 .album-carousel{
-    width: 55%;
+    width: 40%;
     margin: auto;    
     position: relative;
 }
@@ -105,3 +105,4 @@
     color:blueviolet;
     padding-bottom: 6%;
 }
+
