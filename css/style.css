@@ -67,3 +67,41 @@
 #faqp{
     text-align: justify;
 }
+
+.album-carousel{
+    width: 55%;
+    margin: auto;    
+    position: relative;
+}
+
+#albumpic{
+    width: 100%;
+    border-radius: 20%;
+    display: block;
+    border: 5px solid #B197FC;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 15%;
+}
+
+.carousel-control-prev {
+    left: 25%;
+}
+
+.carousel-control-next {
+    right: 25%;
+}
+
+#pricingh1{
+    text-align: center;
+    font-family: "Playwrite NZ Basic", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;  
+    font-size: 300%;
+    color:blueviolet;
+    padding-bottom: 6%;
+}
